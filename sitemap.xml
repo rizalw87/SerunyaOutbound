@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://serunyaoutbound.com/index.html</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://serunyaoutbound.com/assets/hero-outbound.jpg</image:loc>
+      <image:title>Outbound Gathering Kantor di Batu Malang</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://serunyaoutbound.com/about.html</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://serunyaoutbound.com/assets/about-team.jpg</image:loc>
+      <image:title>Tim Serunya Outbound</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://serunyaoutbound.com/blog.html</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Detail Pages -->
+  <url>
+    <loc>https://serunyaoutbound.com/blog/tips-memilih-paket-outbound.html</loc>
+    <lastmod>2025-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://serunyaoutbound.com/assets/blog-1.jpg</image:loc>
+      <image:title>Tips Memilih Paket Outbound Gathering Kantor</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://serunyaoutbound.com/blog/manfaat-outbound-untuk-perusahaan.html</loc>
+    <lastmod>2025-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://serunyaoutbound.com/assets/blog-2.jpg</image:loc>
+      <image:title>Manfaat Outbound Gathering untuk Perusahaan</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://serunyaoutbound.com/blog/lokasi-outbound-terbaik-batu-malang.html</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://serunyaoutbound.com/assets/blog-3.jpg</image:loc>
+      <image:title>Lokasi Outbound Terbaik di Batu Malang</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://serunyaoutbound.com/blog/permainan-team-building-populer.html</loc>
+    <lastmod>2025-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://serunyaoutbound.com/assets/blog-4.jpg</image:loc>
+      <image:title>Permainan Team Building Terpopuler</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://serunyaoutbound.com/blog/persiapan-outbound-gathering.html</loc>
+    <lastmod>2025-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://serunyaoutbound.com/assets/blog-5.jpg</image:loc>
+      <image:title>Persiapan Outbound Gathering Kantor</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://serunyaoutbound.com/blog/wisata-batu-malang-setelah-outbound.html</loc>
+    <lastmod>2025-02-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://serunyaoutbound.com/assets/blog-6.jpg</image:loc>
+      <image:title>Wisata Batu Malang Setelah Outbound</image:title>
+    </image:image>
+  </url>
+
+</urlset>

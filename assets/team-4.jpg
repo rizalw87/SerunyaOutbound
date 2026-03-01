@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#16161f"/>
+  <rect x="0" y="0" width="800" height="600" fill="#fdcb6e" opacity="0.15"/>
+  <text x="400" y="280" font-family="Arial,sans-serif" font-size="48" font-weight="bold" fill="#fdcb6e" text-anchor="middle" opacity="0.6">NP</text>
+  <text x="400" y="330" font-family="Arial,sans-serif" font-size="18" fill="#8a8a9a" text-anchor="middle">Novia Putri</text>
+</svg>

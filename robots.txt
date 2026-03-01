@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://serunyaoutbound.com/sitemap.xml
+
+# Disallow admin/dev paths
+Disallow: /tmp/
+Disallow: /.git/
+Disallow: /node_modules/
+
+# Crawl-delay
+Crawl-delay: 1
